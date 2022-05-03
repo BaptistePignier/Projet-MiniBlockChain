@@ -1,0 +1,4 @@
+22106656	donne	4	coins a 	22101498
+22106351	donne	7	coins a 	22106222
+22111285	donne	1	coins a 	22104461
+22100139	donne	2	coins a 	22106351
